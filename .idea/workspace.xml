@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eac5dd4-5d48-46c4-b525-03334790c27c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/excercise/TP1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/excercise/TP1/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/excercise/TP1/Expression2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/excercise/TP1/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/excercise/TP2/DocSo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/excercise/TP2/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/excercise/TP2/TimMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/started/Constant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/java/excercise/TP2/DocSo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="244">
@@ -56,6 +49,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/java/started/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -88,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/com/java/excercise/TP2/MaxMin.java" />
         <option value="$PROJECT_DIR$/src/com/java/excercise/TP2/MinMax.java" />
         <option value="$PROJECT_DIR$/src/com/java/excercise/TP2/DocSo.java" />
+        <option value="$PROJECT_DIR$/src/com/java/started/Constant.java" />
       </list>
     </option>
   </component>
@@ -129,15 +132,7 @@
               <item name="Java1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="excercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="TP2" type="462c0819:PsiDirectoryNode" />
+              <item name="started" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DocSo">
+  <component name="RunManager" selected="Application.Constant">
     <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.excercise.TP1.Circle" />
       <module name="Java1" />
@@ -179,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.com.java.oop.Class" />
+    <configuration name="Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.started.Constant" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.com.java.oop.*" />
+          <option name="PATTERN" value="com.java.started.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Constant" />
         <item itemvalue="Application.DocSo" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.TimMax" />
         <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.Class" />
       </list>
     </recent_temporary>
   </component>
@@ -252,12 +247,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555512887582</updated>
       <workItem from="1555512890525" duration="3870000" />
-      <workItem from="1555598605707" duration="2932000" />
+      <workItem from="1555598605707" duration="3899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6802000" />
+    <option name="totallyTimeSpent" value="7769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="34" width="960" height="1046" extended-state="4" />
@@ -448,6 +443,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/started/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
