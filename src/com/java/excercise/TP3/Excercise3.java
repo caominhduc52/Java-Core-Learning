@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class CacLoaiSo {
+public class Excercise3 {
     public static int checkNguyenTo(int n) {
         if (n < 2) {
             return 0;
